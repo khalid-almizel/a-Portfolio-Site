@@ -1,34 +1,18 @@
-.bg{
-    background-color: darkgray;
-}
-.imgpos{
-padding: 1em;
-}
-.fstyle{
-    font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
-    padding: 1em;
 
-}
-.h4border{
-    border: 10px black;
-}
-.header{
-    border-bottom: 2px black;
+
+.fstyle{
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .text{
-    text-align:right; 
-    padding-top: 3%;
+    text-align:center; 
 }
-.mg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    width: 50%;
-    height: 90%;
-    padding-top: 2%;
-}
-.udalign{
-    text-align: left;
+.github{
+    font-family: 'Barlow';font-size: 22px;
+        text-align: center;
+    text-decoration: underline;
     padding: 1em;
+}
+.namestyle{
+    text-align:center; 
+    font-family: 'Barlow';font-size: 40px;
 }
