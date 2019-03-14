@@ -1,18 +1,19 @@
-
-
-.fstyle{
+.fstyle {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
-.text{
+.text {
     text-align:center; 
 }
-.github{
+.github {
     font-family: 'Barlow';font-size: 22px;
         text-align: center;
     text-decoration: underline;
     padding: 1em;
 }
-.namestyle{
+.namestyle {
     text-align:center; 
     font-family: 'Barlow';font-size: 40px;
+}
+.psize {
+    font-size: 30px;
 }
